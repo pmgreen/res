@@ -1,2 +1,2 @@
 # res
-A Rutgers Environmental Stewards project in collaboration with Friends of Princeton Open Space (FOPOS) emphasizing the utility of GIS for environmental stewardship
+A Rutgers Environmental Stewards (RES) project emphasizing the utility of GIS for stewardship projects run by Friends of Princeton Open Space (FOPOS).
