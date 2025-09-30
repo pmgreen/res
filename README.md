@@ -1,4 +1,4 @@
-**Proposal** for a 2024 <a href="https://envirostewards.rutgers.edu/" target="_BLANK">Rutgers Environmental Stewards</a> (RES) project emphasizing the utility of **GIS for stewardship projects** managed by <a href="https://www.fopos.org/" target="_BLANK">Friends of Princeton Open Space</a> (FOPOS). Project overview page and details: [https://pmgreen.github.io/res/](https://pmgreen.github.io/res/)
+**This is the proposal** for a 2024 <a href="https://envirostewards.rutgers.edu/" target="_BLANK">Rutgers Environmental Stewards</a> (RES) project emphasizing the utility of **GIS for stewardship projects** managed by <a href="https://www.fopos.org/" target="_BLANK">Friends of Princeton Open Space</a> (FOPOS). Project overview page and details: [https://pmgreen.github.io/res/](https://pmgreen.github.io/res/)
 
 <img width="30%" alt="RUESNJAES_H_RED_BLACK_RGB" src="https://github.com/user-attachments/assets/fd7dd65b-5296-46b3-b8fc-6b394e815be6" />
 
@@ -10,7 +10,7 @@
 
 🟧 = future step
 
-🔷 = adaptation
+🔷 = adaptation (changes to original project proposal)
 
 
 <hr />
