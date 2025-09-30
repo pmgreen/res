@@ -1,4 +1,3 @@
-<img width="254" height="365" alt="Blue_Gps_Marker" src="https://github.com/user-attachments/assets/6bd0364b-422e-470a-ad06-2e870bd2efb7" />
 *This is the proposal** for a 2024 <a href="https://envirostewards.rutgers.edu/" target="_BLANK">Rutgers Environmental Stewards</a> (RES) project emphasizing the utility of **GIS for stewardship projects** managed by <a href="https://www.fopos.org/" target="_BLANK">Friends of Princeton Open Space</a> (FOPOS). The **project overview page** is right [here](https://pmgreen.github.io/res/).
 
 <img width="30%" alt="RUESNJAES_H_RED_BLACK_RGB" src="https://github.com/user-attachments/assets/fd7dd65b-5296-46b3-b8fc-6b394e815be6" />
