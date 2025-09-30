@@ -139,3 +139,5 @@ From
 🔷 adaptation: used <a href="https://www.itreetools.org/tools/i-tree-eco" target="_BLANK">iTree Eco</a> to generate carbon benefiits
 
 <img width="15%" alt="i-Tree_Powered_by_large_tall" src="https://github.com/user-attachments/assets/809cbeb5-9f01-4862-a16f-21a9c997b64d" />
+
+<img width="5%" alt="Blue_Gps_Marker" src="https://github.com/user-attachments/assets/319724f2-3906-43c9-98a4-27893941cffc" />
