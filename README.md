@@ -10,7 +10,7 @@
 
 🟧 = future step
 
-🔷 = adaptation
+🔷 = adaptation (changes to original project proposal)
 
 
 <hr />
